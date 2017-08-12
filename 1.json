@@ -1,9 +1,0 @@
-{
-	"user":{"id": "1", "name": "Chris"},
-	"saves":[
-		{"storyid": "1","node": "3"},
-		{"storyid": "3","node": "6"},
-		{"storyid": "2","node": "10"},
-		{"storyid": "4","node": "17"}
-	]
-}
